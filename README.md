@@ -21,7 +21,7 @@ When I was a freshman, I already understood that computer science is a practical
 
 This motivated me to join the **RoboMASTER club**. 
 
-During the club's interview process, I managed to grasp the basics of **OpenCV** and **C++** in about 10 days. Within 3 days, I completed **my first-ever project: license plate recognition**, which looked like this [用形态学及HSV完成车牌照识别_cfreeze的博客-CSDN博客](https://blog.csdn.net/qq_51942219/article/details/114002399?spm=1001.2014.3001.5501)   *(*  I'm aware that the industry generally considers **CSDN to be a shit mountain**, so in the future, I plan to publish related content on GitHub using **Sourcetree** and manage it using **Git**.  *)* .This is me when I first started in this field.
+During the club's interview process, I managed to grasp the basics of **OpenCV** and **C++** in about 10 days. Within 3 days, I completed **my first-ever project: license plate recognition**, which looked like this [用形态学及HSV完成车牌照识别_cfreeze的博客-CSDN博客](https://blog.csdn.net/qq_51942219/article/details/114002399?spm=1001.2014.3001.5501)   *(*  I'm aware that the industry generally considers **CSDN to be a shit mountain**, so in the future, I plan to publish related content on GitHub *)* .This is me when I first started in this field.
 
 Later on, I also delved into foundational knowledge like **data structures, Java, assembly language, algorithms, and multi-threading (Windows, Qt, Linux)**, and completed various  projects.
 
